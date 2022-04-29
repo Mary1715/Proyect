@@ -1,2 +1,2 @@
-# Proyecto marianay
+# Proyecto mariana
 
